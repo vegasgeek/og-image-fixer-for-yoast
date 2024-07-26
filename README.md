@@ -4,7 +4,7 @@
 
 **Yoast OpenGraph Featured Image Update Fix** ensures that the OpenGraph `og:image` tag is always up-to-date with the current featured image, regardless of how the image was changed. This plugin solves the issue where Yoast SEO may not update the `og:image` tag if the featured image was modified through methods other than the default WordPress post editor.
 
-## Why This Plugin is Needen
+## Why This Plugin is Needed
 
 Yoast SEO is a powerful tool for managing SEO metadata on your WordPress site, including OpenGraph tags. However, a [known issue](https://github.com/Yoast/wordpress-seo/issues/17721) is that Yoast does not always update the `og:image` tag when the featured image is changed via methods other than the standard WordPress post editor. This can lead to outdated or incorrect images being shared on social media platforms, potentially impacting your site's appearance and engagement.
 
