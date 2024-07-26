@@ -1,9 +1,9 @@
 ## Yoast OpenGraph Featured Image Update Fix
-Contributors: vegasgeek
-Tags: yoast, seo, opengraph, featured image, og:image, wordpress
-Stable tag: 1.0.1
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: vegasgeek
+- Tags: yoast, seo, opengraph, featured image, og:image, wordpress
+- Stable tag: 1.0.1
+- License: GPLv2 or later
+- License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
 
@@ -44,8 +44,3 @@ This plugin should be compatible with most themes and plugins. However, if you e
 
 - 1.0.1
 * Initial release.
-
-
-## License
-
-This plugin is licensed under the GPLv2 or later. For more information, see [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html).
