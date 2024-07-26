@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Fix OG:Image
+ * Plugin Name: OG:Image fixer for Yoast
  * Description: Uses the featured image as the Open Graph image if one exists.
  * Author: John Hawkins
  * Version: 1.0.1
