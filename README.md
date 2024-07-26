@@ -1,9 +1,4 @@
-## Yoast OpenGraph Featured Image Update Fix
-- Contributors: vegasgeek
-- Tags: yoast, seo, opengraph, featured image, og:image, wordpress
-- Stable tag: 1.0.1
-- License: GPLv2 or later
-- License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# Yoast OpenGraph Featured Image Update Fix
 
 ## Description
 
